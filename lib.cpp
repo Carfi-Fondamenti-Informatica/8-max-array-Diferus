@@ -1,4 +1,4 @@
-#include "Lib.h"
+#include "lib.h"
 float max_num(const float num[],int d){
     num[d];
     float max=num[0];
@@ -9,4 +9,5 @@ float max_num(const float num[],int d){
     }
     return max;
 }
+
 
